@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5e01c35f5fe4905a3a32334cc45662, type: 3}
+  m_Name: MonetizationSettings
+  m_EditorClassIdentifier: 
+  <MonetizationCofigs>k__BackingField:
+  - <ConfigType>k__BackingField: 0
+    <ApiKey>k__BackingField: 7fGHDIdu738u8hffjseeaGDK
+  - <ConfigType>k__BackingField: 2
+    <ApiKey>k__BackingField: 2348573627345
+  - <ConfigType>k__BackingField: 1
+    <ApiKey>k__BackingField: h48rhe-3494ewe-495efk-fmri34
+  - <ConfigType>k__BackingField: 4
+    <ApiKey>k__BackingField: 

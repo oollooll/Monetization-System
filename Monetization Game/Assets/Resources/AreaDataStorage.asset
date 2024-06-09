@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559a3f37d9a34d76999a1ce75bcde9e6, type: 3}
+  m_Name: AreaDataStorage
+  m_EditorClassIdentifier: 
+  <AreasList>k__BackingField:
+  - <AreaName>k__BackingField: Radar
+    <AreaSprite>k__BackingField: {fileID: 21300000, guid: d9632cec9d0024a9aa1b3b4b7adb4996, type: 3}
+    <AreaNormal>k__BackingField: {fileID: 21300000, guid: e7b03e53e599f42c19fe6c5981eca8a5, type: 3}
+    <AreaLock>k__BackingField: {fileID: 21300000, guid: e7b03e53e599f42c19fe6c5981eca8a5, type: 3}
+    <AreaIndex>k__BackingField: 0
+    <ScoreToPass>k__BackingField: 100
+    <LevelModif>k__BackingField: 1
+    <AreaPrice>k__BackingField: 0
+  - <AreaName>k__BackingField: Jungle
+    <AreaSprite>k__BackingField: {fileID: 21300000, guid: 646ad2d57d93e4365886b4300c1b93b3, type: 3}
+    <AreaNormal>k__BackingField: {fileID: 21300000, guid: fd283edccb3e441a1999cbede052f0fc, type: 3}
+    <AreaLock>k__BackingField: {fileID: 21300000, guid: b5d5a47ba720547ecbb9bb47601e5714, type: 3}
+    <AreaIndex>k__BackingField: 1
+    <ScoreToPass>k__BackingField: 150
+    <LevelModif>k__BackingField: 10
+    <AreaPrice>k__BackingField: 10000
+  - <AreaName>k__BackingField: Space
+    <AreaSprite>k__BackingField: {fileID: 21300000, guid: 5f0a24c5e40fa40c69b807ce28b6e09a, type: 3}
+    <AreaNormal>k__BackingField: {fileID: 21300000, guid: a3779827693bf42a9ba2435946ac71e5, type: 3}
+    <AreaLock>k__BackingField: {fileID: 21300000, guid: 9feee8d18d25f48038b59bca82cc0b44, type: 3}
+    <AreaIndex>k__BackingField: 2
+    <ScoreToPass>k__BackingField: 200
+    <LevelModif>k__BackingField: 100
+    <AreaPrice>k__BackingField: 15000
